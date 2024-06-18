@@ -17,7 +17,7 @@ int main(){
     else{
         ans*=arr[i];
     }
-    cout<<answers;
+    cout<<answerss;
     return 0;
         
 
